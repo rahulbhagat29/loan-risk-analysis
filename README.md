@@ -24,3 +24,9 @@ Python (Pandas) | MySQL Workbench | Power BI
 
 ## Business Recommendation
 Approve Grade A/B at standard rates. Apply 1.5x risk-based pricing for Grade C/D/E High DTI. Reject Grade F/G — no pricing strategy recovers these losses.
+
+## Charts
+
+![Profit Curve](profit_curve.png)
+
+![Risk Based Pricing](risk_based_pricing.png)
