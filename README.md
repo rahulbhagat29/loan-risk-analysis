@@ -30,3 +30,7 @@ Approve Grade A/B at standard rates. Apply 1.5x risk-based pricing for Grade C/D
 ![Profit Curve](profit_curve.png)
 
 ![Risk Based Pricing](risk_based_pricing.png)
+
+## Dashboard
+
+[View Power BI Dashboard](https://app.powerbi.com/links/T-C3dnAC0G?ctid=966c22c8-f655-4457-bbc7-102c0e820548&pbi_source=linkShare)
